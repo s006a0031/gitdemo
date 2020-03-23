@@ -41,3 +41,8 @@ for i in range(len(d)):
         print(a[i])
     else:
         i+=1
+for i in range(len(d)):
+    if d[i] == e:
+        print(a[i])
+    else:
+        i+=1
